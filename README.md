@@ -17,4 +17,15 @@
 - Tại widows của tôi đã active rồi, nếu chưa quí vị bấm tiếp phiếm 1.
 - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/b8d325d3-ed02-4bf9-9bfb-96f18781d024)
 
+### KIỂM TRA HẠN KÍCH HOẠT WINDOWS: ###
+- Bấm phím Windows + R
+- Điền vào **Run** rồi enter
+- ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/aeb429cb-dae5-43e6-8847-1f7c024f1d0f)
+- Copy và dán đoạn lệnh **CD C:\Windows\System32** rồi bấm enter
+- ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/a412a204-25da-4d30-935c-18ab993c46d4) 
+- Tiếp tục dán đoạn **slmgr/xpr** vào và đánh enter
+- ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/a59b03ce-be83-4c35-9f68-038dbfa33afa)
+- ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/8b846979-a8fc-41b9-84ae-6cac900e75e9)
+- Vậy là Windows được active vĩnh viễn!
+
 #### CHÚC QUÍ VỊ THÀNH CÔNG ####
