@@ -28,4 +28,4 @@
 - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/8b846979-a8fc-41b9-84ae-6cac900e75e9)
 - Vậy là Windows được active vĩnh viễn!
 
-#### CHÚC QUÍ VỊ THÀNH CÔNG ####
+#### CHÚC QUÍ VỊ THÀNH CÔNG! ####
