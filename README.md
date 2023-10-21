@@ -12,6 +12,7 @@
 
 ## KÍCH HOẠT OFFICE VĨNH VIỄN ##
 - **Chỉ kích hoạt được office 2013 trở đi.**
+- ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/35c73b60-0d7b-4c8e-a6de-08ac1a4d37ae)
 - Bấm số 2.
 - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/762b895e-26ab-4966-a39d-bb5fe3571b67)
 - Bấm số 1.
