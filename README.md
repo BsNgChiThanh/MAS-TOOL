@@ -1,6 +1,6 @@
 # MAS TOOL
 ## MAS TOOL chạy trực tiếp trên PowerShell ##
-  - Bấm nút **Windows + R** rồi gõ vào **PowerShell** enter
+  - Bấm nút **Windows + R** rồi gõ vào **PowerShell** rồi enter
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/20392a4f-4858-4dfc-89b0-dd3b3a243f90)
   - Dán vào câu lệnh: **CD C:\Windows\System32** rồi enter
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/2d1b705d-7727-429b-983b-07dfc1cac0bb)
