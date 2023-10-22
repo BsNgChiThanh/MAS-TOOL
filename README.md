@@ -3,8 +3,8 @@
   - Bấm nút **Windows + R** rồi gõ vào **PowerShell** rồi enter
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/20392a4f-4858-4dfc-89b0-dd3b3a243f90)
   - Dán vào câu lệnh: **CD C:\Windows\System32** rồi enter
-  - Dán tiếp câu lệnh: **irm https://massgrave.dev/get | iex** rồi đánh enter
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/2d1b705d-7727-429b-983b-07dfc1cac0bb)
+  - Dán tiếp câu lệnh: **irm https://massgrave.dev/get | iex** rồi đánh enter
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/4a6e5e4c-b9d5-4c1a-83d3-0c3e3428a15f)
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/159479af-26cc-4c21-b250-73ed97188dc7)
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/02fb00aa-67c3-42ce-afbd-94458d018ee9)
