@@ -18,7 +18,7 @@
 - Đây là Tool hay, đảm bảo không có virus!
 - ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
 
-### Download Mas Tool [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6hmcUgMQ8wboeUG3H?e=gwJm4r), link [dự phòng](https://terabox.com/s/1Bm--sS0p4QNJ-sygLQcizA) ###
+### Download Mas Tool [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6hmecSP6jINHhS9JM?e=ug3qmx), link [dự phòng](https://terabox.com/s/1Bm--sS0p4QNJ-sygLQcizA) ###
 - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/e053e9aa-92c5-4e23-95cc-36d1e255bc42)
 - Lựa chọn một số từ 0 đến 8 phù hợp với mục đính của mình.
 - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/e8979bf4-bb67-4ccc-9c33-a21866700c55)
