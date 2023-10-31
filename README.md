@@ -17,6 +17,7 @@
 ## HOẶC TẢI VỀ RỒI KÍCH HOẠT ##
 - Trang github https://github.com/massgravel/Microsoft-Activation-Scripts
 - Trang chủ: https://massgrave.dev/index.html
+- https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/MAS%202.4.rar
 - Từ trang trên chúng ta có thể download source nguồn của windows và office https://massgrave.dev/genuine-installation-media.html
 - Đây là Tool hay, đảm bảo không có virus!
 - Chạy tốt trên nền Windows 8.1 trở lên!
